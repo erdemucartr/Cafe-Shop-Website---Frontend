@@ -1,0 +1,2 @@
+# Cafe Shop Website - Frontend
+ The project is a frontend implementation of a cafe shop website. It includes user interface elements such as navigation menus, product listings, and contact forms to provide visitors with information about the cafe's offerings and allow them to explore the menu. While the backend functionality is not included, the frontend design showcases the visual presentation and layout of the cafe shop website, creating an inviting and immersive online experience for potential customers.
